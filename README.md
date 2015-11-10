@@ -7,4 +7,4 @@ Compiling the document requires [pandoc](http://pandoc.org/). Run the bash scrip
 ```bash
 bash makeAbstract.sh
 ```
-Document will appear in the [public](./public) folder.
+Document will appear in the [public](/public) folder.
