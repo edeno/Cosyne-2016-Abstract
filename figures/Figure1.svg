@@ -13,11 +13,14 @@
    id="svg3390"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="1069.6875"
-   height="1099.6875"
-   viewBox="0 0 1069.6875 1099.6875"
+   width="1141"
+   height="1173"
+   viewBox="0 0 1141 1173"
    sodipodi:docname="Figure1.svg"
-   inkscape:label="Screenshot">
+   inkscape:label="Screenshot"
+   inkscape:export-filename="/Users/edeno/Documents/GitHub/Cosyne-2016-Abstract/figures/Figure1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata3396">
     <rdf:RDF>
@@ -31,7 +34,87 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3394" />
+     id="defs3394">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5472"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path5474" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5357"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5359"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4966"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4968" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4758"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:collect="always">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4760"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4457"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -45,9 +128,9 @@
      inkscape:window-height="878"
      id="namedview3392"
      showgrid="false"
-     inkscape:zoom="0.9458556"
-     inkscape:cx="430.17661"
-     inkscape:cy="984.70199"
+     inkscape:zoom="0.61472009"
+     inkscape:cx="342.31018"
+     inkscape:cy="14.234121"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,7 +140,8 @@
      id="layer2"
      inkscape:label="Screenshot"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0,73.3125)">
     <image
        width="1069.6875"
        height="1099.6875"
@@ -10138,116 +10222,282 @@ SWspRQAAAIDLB/oKAABAqwLx2QEAAPxpOJ3/P+SoegCnV+v4AAAAAElFTkSuQmCC
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Annotations"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,73.3125)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="66"
-       y="25.6875"
-       id="text3401"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3403"
-         x="66"
-         y="25.6875"
-         style="font-size:20px;fill:#501010;fill-opacity:1">Electrode Network</tspan><tspan
-         sodipodi:role="line"
-         x="66"
-         y="50.6875"
-         id="tspan3413"
-         style="font-size:20px;fill:#501010;fill-opacity:1">for Edge Statistic</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="386.37527"
-       y="573.42816"
-       id="text3409"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3411"
-         x="386.37527"
-         y="573.42816"
-         style="font-size:20px;fill:#501010;fill-opacity:1">Spectra and Coherences </tspan><tspan
-         sodipodi:role="line"
-         x="386.37527"
-         y="598.42816"
-         style="font-size:20px;fill:#501010;fill-opacity:1"
-         id="tspan4256">for a Single Electrode Pair</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="617"
-       y="26.6875"
+       x="627"
+       y="24.6875"
        id="text3405"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3407"
-         x="617"
-         y="26.6875"
-         style="font-size:20px;fill:#501010;fill-opacity:1">Controls</tspan></text>
+         x="627"
+         y="24.6875"
+         style="font-size:17.5px;fill:#501010;fill-opacity:1">Controls</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="539.42639"
-       y="463.1467"
+       x="565.42639"
+       y="553.14673"
        id="text3415"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3417"
-         x="539.42639"
-         y="463.1467"
-         style="font-size:20px;fill:#501010;fill-opacity:1">Dynamic Legend</tspan></text>
+         x="565.42639"
+         y="553.14673"
+         style="font-size:17.5px;fill:#501010;fill-opacity:1">Dynamic Legend</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 707.29612,23.413277 97.26644,56.033924"
-       id="path4260"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83934426px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotL)"
        d="M 206.11858,62.464159 332.01852,145.06346"
        id="path4262"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 723.15478,454.76876 106.78163,1.05725"
-       id="path4266"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 376.3788,578.46629 c -209.33427,0 -201.93357,57.09117 -201.93357,57.09117"
-       id="path4272"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 663.94913,577.40905 c 217.79223,0 230.47915,65.54911 230.47915,65.54911 l 1.05725,1.05725"
-       id="path4274"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 528.62192,605.95463 1.05724,42.28975"
-       id="path4280"
-       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="52.15361"
+       y="7.6875"
+       id="text3401"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3403"
+         x="52.15361"
+         y="7.6875"
+         style="font-size:17.5px;fill:#501010;fill-opacity:1">Network View</tspan><tspan
+         sodipodi:role="line"
+         x="52.15361"
+         y="29.5625"
+         id="tspan3413"
+         style="font-size:17.5px;fill:#501010;fill-opacity:1">for Edge Statistic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#501010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="68.720856"
+       x="94.720856"
        y="971.76099"
        id="text4304"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="68.720856"
+         x="94.720856"
          y="971.76099"
          id="tspan4308"
-         style="font-size:20px;fill:#501010;fill-opacity:1">Electrode pair over time</tspan><tspan
+         style="font-size:17.5px;fill:#501010;fill-opacity:1">Electrode pair over time</tspan><tspan
          sodipodi:role="line"
-         x="68.720856"
-         y="996.76099"
+         x="94.720856"
+         y="993.63599"
          id="tspan4312"
-         style="font-size:20px;fill:#501010;fill-opacity:1">at a particular frequency</tspan></text>
+         style="font-size:17.5px;fill:#501010;fill-opacity:1">at a particular frequency</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4758)"
        d="m 323.51661,983.39068 102.55265,27.48832 0,0 0,0 -1.05724,0"
        id="path4317"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4798"
+       cx="470.94604"
+       cy="120.37999"
+       r="13.014053" />
+    <circle
+       r="13.014053"
+       cy="171.62282"
+       cx="376.59415"
+       id="circle4820"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99645007;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.99290021, 7.98580042;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5064"
+       width="1044.3811"
+       height="270.04492"
+       x="12.132127"
+       y="646.32776"
+       ry="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69519293px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4966)"
+       d="m 261.53343,647.33509 -56.81413,-60.06001 1.23509,1.03551"
+       id="path5066"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5068"
+       y="493.10181"
+       x="36.744164"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:17.5px;fill:#501010;fill-opacity:1"
+         id="tspan5072"
+         y="493.10181"
+         x="36.744164"
+         sodipodi:role="line">Single Electrode Pair</tspan><tspan
+         style="font-size:17.5px;fill:#501010;fill-opacity:1"
+         y="514.97681"
+         x="36.744164"
+         sodipodi:role="line"
+         id="tspan5076">from Network </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="52.457565"
+       y="48.697021"
+       id="text5126"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5128"
+         x="52.457565"
+         y="48.697021"
+         style="font-size:12.5px">At a particular time</tspan><tspan
+         sodipodi:role="line"
+         x="52.457565"
+         y="64.322021"
+         id="tspan5130"
+         style="font-size:12.5px">and frequency. Updates</tspan><tspan
+         sodipodi:role="line"
+         x="52.457565"
+         y="79.947021"
+         style="font-size:12.5px"
+         id="tspan5276">from control panel or</tspan><tspan
+         sodipodi:role="line"
+         x="52.457565"
+         y="95.572021"
+         style="font-size:12.5px"
+         id="tspan5280">via mouseover of the </tspan><tspan
+         sodipodi:role="line"
+         x="52.457565"
+         y="111.19702"
+         style="font-size:12.5px"
+         id="tspan5284">single electrode pair</tspan><tspan
+         sodipodi:role="line"
+         x="52.457565"
+         y="126.82202"
+         style="font-size:12.5px"
+         id="tspan5286">heatmaps.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="36.85891"
+       y="529.60431"
+       id="text5150"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="36.85891"
+         y="529.60431"
+         id="tspan5238"
+         style="font-size:12.5px;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none">Spectra and edge statistic</tspan><tspan
+         sodipodi:role="line"
+         x="36.85891"
+         y="545.22931"
+         style="font-size:12.5px;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan5244">for all times and frequencies</tspan><tspan
+         sodipodi:role="line"
+         x="36.85891"
+         y="560.85431"
+         style="font-size:12.5px;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan5248">for one pair of electrodes. </tspan><tspan
+         sodipodi:role="line"
+         x="36.85891"
+         y="576.47931"
+         style="font-size:12.5px;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan5250">Can be dynamically updated</tspan><tspan
+         sodipodi:role="line"
+         x="36.85891"
+         y="592.10431"
+         style="font-size:12.5px;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan5252">by selecting electrodes.</tspan><tspan
+         sodipodi:role="line"
+         x="36.85891"
+         y="607.72931"
+         style="font-size:12.5px;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan5262" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="566.80823"
+       y="567.38617"
+       id="text5266"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5268"
+         x="566.80823"
+         y="567.38617"
+         style="font-size:12.5px">Legend automatically</tspan><tspan
+         sodipodi:role="line"
+         x="566.80823"
+         y="583.01117"
+         id="tspan5270"
+         style="font-size:12.5px">updates based on </tspan><tspan
+         sodipodi:role="line"
+         x="566.80823"
+         y="598.63617"
+         style="font-size:12.5px"
+         id="tspan5272">the type of edge </tspan><tspan
+         sodipodi:role="line"
+         x="566.80823"
+         y="614.26117"
+         style="font-size:12.5px"
+         id="tspan5274">statistic selected.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.082184"
+       y="1006.9624"
+       id="text5288"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5290"
+         x="95.082184"
+         y="1006.9624"
+         style="font-size:12.5px">Same electrode pair as above.</tspan><tspan
+         sodipodi:role="line"
+         x="95.082184"
+         y="1022.5874"
+         style="font-size:12.5px"
+         id="tspan5292">Offers simultaneous comparison </tspan><tspan
+         sodipodi:role="line"
+         x="95.082184"
+         y="1038.2124"
+         style="font-size:12.5px"
+         id="tspan5294">of edge statistic and spectra. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="627.45776"
+       y="37.788651"
+       id="text5296"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="627.45776"
+         y="37.788651"
+         style="font-size:12.5px"
+         id="tspan5441">Compare networks</tspan><tspan
+         sodipodi:role="line"
+         x="627.45776"
+         y="53.413651"
+         style="font-size:12.5px"
+         id="tspan5456">between subjects, </tspan><tspan
+         sodipodi:role="line"
+         x="627.45776"
+         y="69.038651"
+         style="font-size:12.5px"
+         id="tspan5458">edge statistics, or</tspan><tspan
+         sodipodi:role="line"
+         x="627.45776"
+         y="84.663651"
+         style="font-size:12.5px"
+         id="tspan5460">within or between</tspan><tspan
+         sodipodi:role="line"
+         x="627.45776"
+         y="100.28865"
+         style="font-size:12.5px"
+         id="tspan5462">brain regions.    </tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5357)"
+       d="m 709.2659,535.20294 128.51378,-78.08432 0,0 0,0"
+       id="path5349"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5472)"
+       d="m 749.93482,63.44351 110.61945,3.25351 0,0 0,0"
+       id="path5464"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
