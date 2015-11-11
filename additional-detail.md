@@ -1,2 +1,2 @@
 **Detail**:
-![](figures/Figure1.svg)
+![](figures/Figure1.png)
