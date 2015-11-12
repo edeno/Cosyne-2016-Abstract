@@ -3,7 +3,7 @@ title:  'SpectraVis: A web application for analyzing dynamic, task-related funct
 author:
   - Eric L. Denovellis
   - Emily P. Stephen
-figPrefix:
+figPrefix: # Sets default inline figure label in pandoc-crossref
   - Figure
   - Figures
 ---
